@@ -8,3 +8,6 @@ Parcellation:
 
 EEG mapped to labels:
 ![Image](https://github.com/user-attachments/assets/56a2c71c-fd38-4bf1-b818-1dc91eb84cb0)
+
+Below are two uncertainty maps (i.e., distance to assigned electrode within each parcel). Upper panel shows relative values normalized to maximum distance to assigned electrode, lower panel shows absolute values. 
+![Image](https://github.com/user-attachments/assets/afb0855d-5b1c-4231-bb14-e183488324cc)
