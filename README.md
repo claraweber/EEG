@@ -11,3 +11,6 @@ EEG mapped to labels:
 
 Below are two uncertainty maps (i.e., distance to assigned electrode within each parcel). Upper panel shows relative values normalized to maximum distance to assigned electrode, lower panel shows absolute values. 
 ![Image](https://github.com/user-attachments/assets/afb0855d-5b1c-4231-bb14-e183488324cc)
+
+When correcting for uncertainty (map * (1-relative distance), results follow a slightly different but plausible pattern:
+![image](https://github.com/user-attachments/assets/91fd2ded-1eeb-4694-921f-ea79ed2ed0c4)
