@@ -4,7 +4,7 @@ This script builds a parcellation that allows to map EEG data to surface. ! Spat
 Uses a closest electrode approach to create parcels. Script originally written for LEMON data - 61 electrodes in 2010 space. Maps to fsaverage5.
 
 Parcellation:
-![Image](https://github.com/user-attachments/assets/6094089f-7a04-4daa-9bdf-3093770f495b)
+![image](https://github.com/user-attachments/assets/2ce6c489-4553-4f1e-8deb-64732ac77045)
 
 EEG mapped to labels:
 ![Image](https://github.com/user-attachments/assets/56a2c71c-fd38-4bf1-b818-1dc91eb84cb0)
