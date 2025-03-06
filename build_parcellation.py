@@ -38,7 +38,7 @@ montage = make_standard_montage('standard_1020')
 #mne.channels.get_builtin_montages()
 
 # Get the 3D positions of electrodes
-pos_3d = np.array([montage.get_positions()['ch_pos'][ch] for ch in lemon_ch_names])*800
+pos_3d = np.array([montage.get_positions()['ch_pos'][ch] for ch in lemon_ch_names])*1000
 
 # Fetch fsaverage surface using nilearn
 fsaverage = fetch_surf_fsaverage()
